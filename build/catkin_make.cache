@@ -1,0 +1,2 @@
+SensorsTimeSync
+-DCATKIN_DEVEL_PREFIX=/home/zy/BATC/project/eryuan/SensorTimeSync_ws/devel -DCMAKE_INSTALL_PREFIX=/home/zy/BATC/project/eryuan/SensorTimeSync_ws/install -G Unix Makefiles

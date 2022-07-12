@@ -1,0 +1,8 @@
+prefix=/home/zy/BATC/project/eryuan/SensorTimeSync_ws/install
+
+Name: data_tb
+Description: Description of data_tb
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: 
